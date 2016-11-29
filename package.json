@@ -1,0 +1,29 @@
+{
+  "name": "workers",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "dependencies": {
+    "async": "2.1.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.15.2",
+    "coffee-script": "1.11.1",
+    "express": "4.14.0",
+    "i18n": "0.8.3",
+    "jwt-simple": "0.5.1",
+    "localize": "0.4.7",
+    "monk": "3.1.3",
+    "node-cache": "4.1.0",
+    "node-json-db": "0.7.3",
+    "nodejs-model": "0.1.6",
+    "passport": "0.3.2",
+    "passport-jwt": "2.2.1",
+    "sendgrid": "4.7.1",
+    "speakingurl": "10.0.0"
+  }
+}

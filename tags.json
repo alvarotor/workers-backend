@@ -1,0 +1,100 @@
+{
+    "tags": [
+        {
+            "id": 1,
+            "tag": 0,
+            "en": {
+                "text": "artist",
+                "description": "Description Artist"
+            },
+            "es": {
+                "text": "artista",
+                "description": "Descripción de artista"
+            }
+        },
+        {
+            "id": 11,
+            "tag": 1,
+            "en": {
+                "text": "actor",
+                "description": "Tag actor"
+            },
+            "es": {
+                "text": "actor",
+                "description": "Etiqueta actor"
+            }
+        },
+        {
+            "id": 12,
+            "tag": 1,
+            "en": {
+                "text": "musician",
+                "description": "Tag musician"
+            },
+            "es": {
+                "text": "músico",
+                "description": "Etiqueta músico"
+            }
+        },
+        {
+            "id": 13,
+            "tag": 1,
+            "en": {
+                "text": "painter",
+                "description": "Tag painter"
+            },
+            "es": {
+                "text": "pintor",
+                "description": "Etiqueta pintor"
+            }
+        },
+        {
+            "id": 2,
+            "tag": 0,
+            "en": {
+                "text": "builder",
+                "description": "Description Builder"
+            },
+            "es": {
+                "text": "Constructor",
+                "description": "Descripción constructor"
+            }
+        },
+        {
+            "id": 21,
+            "tag": 2,
+            "en": {
+                "text": "programs",
+                "description": "Tag programs"
+            },
+            "es": {
+                "text": "programas",
+                "description": "Etiqueta programas"
+            }
+        },
+        {
+            "id": 22,
+            "tag": 2,
+            "en": {
+                "text": "buildings",
+                "description": "Tag buildings"
+            },
+            "es": {
+                "text": "edificios",
+                "description": "Etiqueta edificios"
+            }
+        },
+        {
+            "id": 23,
+            "tag": 2,
+            "en": {
+                "text": "houses",
+                "description": "Tag houses"
+            },
+            "es": {
+                "text": "casas",
+                "description": "Etiqueta casas"
+            }
+        }
+    ]
+}
