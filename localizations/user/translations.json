@@ -1,65 +1,65 @@
 {
     "Please, provide username, name, email, password, coordenades and tag.": {
-        "es": "Por favor, provee nombre de usuario, nombre, email, contraseña, coordenadas y categoría.",
+        "es": "Por favor, provee nombre de usuario, nombre, email, contraseña, coordenadas y categoría."
     },
     "Please provide description, tag, mobile and address.": {
-        "es": "Por favor, provee descripción, categoría, movil y dirección.",
+        "es": "Por favor, provee descripción, categoría, movil y dirección."
     },
     "User already exists": {
-        "es": "Ese usuario ya existe.",
+        "es": "Ese usuario ya existe."
     },
     "Please provide email and password.": {
-        "es": "Por favor provee email y contraseña.",
+        "es": "Por favor provee email y contraseña."
     },
     "Authentication failed.": {
-        "es": "Autenticación falló.",
+        "es": "Autenticación falló."
     },
     "Please provide email.": {
-        "es": "Por favor provee email.",
+        "es": "Por favor provee email."
     },
     "The user don't exist.": {
-        "es": "El usuario no existe.",
+        "es": "El usuario no existe."
     },
     "Please provide url.": {
-        "es": "Por favor, provee url.",
+        "es": "Por favor, provee url."
     },
     "Please provide radius, tag, lat and lng.": {
-        "es": "Por favor, provee radio, categoría, longitud y latitud.",
+        "es": "Por favor, provee radio, categoría, longitud y latitud."
     },
     "Please provide code.": {
-        "es": "Por favor, provee código.",
+        "es": "Por favor, provee código."
     },
     "Must provide a valid email.": {
-        "es": "Debe proveer un email válido.",
+        "es": "Debe proveer un email válido."
     },
     "Must provide a valid name.": {
-        "es": "Debe proveer un nombre válido.",
+        "es": "Debe proveer un nombre válido."
     },
     "Profile not found": {
-        "es": "Perfil no encontrado.",
+        "es": "Perfil no encontrado."
     },
     "Must provide a value and an email.": {
-        "es": "Debe proveer un valor y un email.",
+        "es": "Debe proveer un valor y un email."
     },
     "Must provide a code and an email.": {
-        "es": "Debe proveer un código y un email.",
+        "es": "Debe proveer un código y un email."
     },
     "Code is not correct.": {
-        "es": "El código no es correcto.",
+        "es": "El código no es correcto."
     },
     "Please provide passwords to validate.": {
-        "es": "Por favor provee las contraseñas para validar.",
+        "es": "Por favor provee las contraseñas para validar."
     },
     "New password and confirm password must be the same.": {
-        "es": "Nueva contraseña y confirma contraseña deben ser la misma.",
+        "es": "Nueva contraseña y confirma contraseña deben ser la misma."
     },
     "Authentication failed checking password.": {
-        "es": "Autenticación falló comprobando contraseña.",
+        "es": "Autenticación falló comprobando contraseña."
     },
     "Authentication failed checking old password. Old password not valid": {
-        "es": "Autenticación falló comprobando la vieja contraseña. La vieja contraseña no es valida.",
+        "es": "Autenticación falló comprobando la vieja contraseña. La vieja contraseña no es valida."
     },
     "Please provide code to validate.": {
-        "es": "Por favor provee el codigo para validar.",
+        "es": "Por favor provee el codigo para validar."
     }
 }

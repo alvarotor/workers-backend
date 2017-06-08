@@ -1,14 +1,14 @@
 {
     "Please provide url.": {
-        "es": "Por favor provee el url.",
+        "es": "Por favor provee el url."
     },
     "Please provide front name to show on the email, url from name, to and text.": {
-        "es": "Por favor provee el nombre para mostrar en el email (front name), url del nombre, el email para (to) y el texto (text).",
+        "es": "Por favor provee el nombre para mostrar en el email (front name), url del nombre, el email para (to) y el texto (text)."
     },
     "Must provide a valid id and to.": {
-        "es": "Debe proveer un valor valido para id y to.",
+        "es": "Debe proveer un valor valido para id y to."
     },
     "Must provide a valid id.": {
-        "es": "Debe proveer un valor valido para id.",
+        "es": "Debe proveer un valor valido para id."
     }
 }

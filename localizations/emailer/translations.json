@@ -1,50 +1,50 @@
 {
     "WORKERS forgotten password": {
-        "es": "WORKERS contraseña olvidada",
+        "es": "WORKERS contraseña olvidada"
     },
     "forgotten password": {
-        "es": "Contraseña olvidada",
+        "es": "Contraseña olvidada"
     },
     "Click": {
-        "es": "Haz click",
+        "es": "Haz click"
     },
     "here": {
-        "es": "aquí",
+        "es": "aquí"
     },
     "WORKERS Contact From": {
-        "es": "WORKERS formulario de contacto",
+        "es": "WORKERS formulario de contacto"
     },
     "WORKERS new Contact Us Form": {
-        "es": "WORKERS nuevo formulario Contáctanos",
+        "es": "WORKERS nuevo formulario Contáctanos"
     },
     "New message": {
-        "es": "Nuevo mensaje",
+        "es": "Nuevo mensaje"
     },
     "Click here to see it": {
-        "es": "Haz click aquí para verlo",
+        "es": "Haz click aquí para verlo"
     },
     "You got a new message": {
-        "es": "Tienes un nuevo mensaje",
+        "es": "Tienes un nuevo mensaje"
     },
     "Thanks for creating an account with us! <br /> $[1], please, to activate your email click": {
-        "es": "Gracias por crear una cuenta con nosotros! <br /> $[1], por favor, para activar tu cuenta haz click",
+        "es": "Gracias por crear una cuenta con nosotros! <br /> $[1], por favor, para activar tu cuenta haz click"
     },
     "Welcome to WORKERS.": {
-        "es": "Bienvenido a WORKERS.",
+        "es": "Bienvenido a WORKERS."
     },
     "Congrats, you have added $[1] euros to your credit. ": {
-        "es": "Felicidades, has añadido $[1] euros a tu crédito. ",
+        "es": "Felicidades, has añadido $[1] euros a tu crédito. "
     },
     "Now your final credit balance is: $[1] euros.": {
-        "es": "Ahora tu crédito final es: $[1] euros. ",
+        "es": "Ahora tu crédito final es: $[1] euros. "
     },
     "You have added new credit!": {
-        "es": "¡Has añadido nuevo crédito!",
+        "es": "¡Has añadido nuevo crédito!"
     },
     "Your account is activated!": {
-        "es": "¡Tu cuenta está activada!.",
+        "es": "¡Tu cuenta está activada!."
     },
     "Congrats, your account is been activated.": {
-        "es": "Felicidades, tu cuenta ha sido activada.",
+        "es": "Felicidades, tu cuenta ha sido activada."
     }
 }

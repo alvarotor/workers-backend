@@ -1,11 +1,11 @@
 {
     "Please provide url.": {
-        "es": "Por favor, provee url.",
+        "es": "Por favor, provee url."
     },
     "Please provide also id and number.": {
-        "es": "Por favor, provee también id y número.",
+        "es": "Por favor, provee también id y número."
     },
     "Must provide a valid id and from.": {
-        "es": "Debe proveer un valido id y desde (from).",
+        "es": "Debe proveer un valido id y desde (from)."
     }
 }
